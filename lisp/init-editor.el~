@@ -1,0 +1,6 @@
+;; Let emacs close its mouth
+(setq-default ring-bell-function 'ignore)
+;; File auto revert
+(global-auto-revert-mode t)
+
+(provide 'init-editor)
