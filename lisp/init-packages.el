@@ -14,7 +14,8 @@
 		      window-numbering
 		      org
 		      realgud
-		      auto-package-update))
+		      auto-package-update
+		      blackboard-theme))
 
 (setq-default package-selected-packages my/packages)
 
